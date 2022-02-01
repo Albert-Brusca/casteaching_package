@@ -1,0 +1,15 @@
+{
+  "name": "@abrusca/casteachingalbert",
+  "version": "1.0.5",
+  "description": "Javascript package for API casteaching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert Brusca",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "dotenv": "^14.3.2"
+  }
+}
