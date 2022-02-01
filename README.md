@@ -8,6 +8,7 @@ npm install @abrusca/casteachingalbert
 
 ```javascript
 import casteaching from '@abrusca/casteachingalbert'
+const api = casteaching({baseUrl: 'https://casteaching.albertbrusca.me/api'})
 // Obtenir llista de vídeos publicats
 casteaching.videos()
 // Obtenir vídeo per ID
